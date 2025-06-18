@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "description": "Finish project report",
+    "category": "Work"
+  },
+  {
+    "id": 3,
+    "description": "Call plumber",
+    "category": "Home"
+  },
+  {
+    "id": 4,
+    "description": "Read a book",
+    "category": "Personal"
+  },
+  {
+    "id": 5,
+    "description": "Buy milk",
+    "category": "Personal"
+  }
+]
