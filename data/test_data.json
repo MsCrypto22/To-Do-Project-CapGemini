@@ -1,0 +1,17 @@
+[
+  {"id": 1, "description": "Test task with special chars: @#$%", "category": "Test"},
+  {"id": 2, "description": "Very long task description that goes on and on to test how the application handles lengthy text input", "category": "LongText"},
+  {"id": 3, "description": "Task with numbers 12345", "category": "Numbers"},
+  {"id": 4, "description": "Empty category test", "category": ""},
+  {"id": 5, "description": "UPPERCASE CATEGORY", "category": "UPPERCASE"},
+  {"id": 6, "description": "lowercase category", "category": "lowercase"},
+  {"id": 7, "description": "Mixed Case Category", "category": "MixedCase"},
+  {"id": 8, "description": "Task with spaces in category", "category": "Category With Spaces"},
+  {"id": 9, "description": "Task with unicode: café résumé", "category": "Unicode"},
+  {"id": 10, "description": "Task with emoji 🎯", "category": "Emoji"},
+  {"id": 11, "description": "Single word", "category": "Simple"},
+  {"id": 12, "description": "", "category": "EmptyDescription"},
+  {"id": 13, "description": "Task for deletion test", "category": "DeleteMe"},
+  {"id": 14, "description": "Task for update test", "category": "UpdateMe"},
+  {"id": 15, "description": "Final test task", "category": "Final"}
+] 

@@ -1,0 +1,17 @@
+[
+  {"id": 1, "description": "Complete project presentation", "category": "Work", "status": "completed"},
+  {"id": 2, "description": "Buy birthday gift for mom", "category": "Personal", "status": "pending"},
+  {"id": 3, "description": "Fix leaky faucet", "category": "Home", "status": "pending"},
+  {"id": 4, "description": "Go to gym", "category": "Exercise", "status": "completed"},
+  {"id": 5, "description": "Pay rent", "category": "Finance", "status": "pending"},
+  {"id": 6, "description": "Read 30 pages of book", "category": "Personal", "status": "completed"},
+  {"id": 7, "description": "Schedule team meeting", "category": "Work", "status": "pending"},
+  {"id": 8, "description": "Take vitamins", "category": "Health", "status": "completed"},
+  {"id": 9, "description": "Clean kitchen", "category": "Chores", "status": "pending"},
+  {"id": 10, "description": "Practice piano", "category": "Hobby", "status": "completed"},
+  {"id": 11, "description": "Call insurance company", "category": "Finance", "status": "pending"},
+  {"id": 12, "description": "Meditate", "category": "Wellbeing", "status": "completed"},
+  {"id": 13, "description": "Update LinkedIn profile", "category": "Work", "status": "pending"},
+  {"id": 14, "description": "Water plants", "category": "Home", "status": "completed"},
+  {"id": 15, "description": "Plan weekend trip", "category": "Personal", "status": "pending"}
+] 
