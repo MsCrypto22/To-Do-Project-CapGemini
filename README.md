@@ -117,12 +117,4 @@ This provides guided demonstrations of all features including:
 ]
 ```
 
-## Presentation Tips
-1. **Start with seed data**: `python data_management.py seed`
-2. **Show basic operations**: Add, list, remove tasks
-3. **Demonstrate filtering**: `python app/todo.py list --category Work`
-4. **Show test scenarios**: Switch to test data for edge cases
-5. **Run tests**: Show comprehensive test coverage
-6. PowerPoint Presentation has been made as well
-
 For detailed information about data management, see [DATA_MANAGEMENT.md](DATA_MANAGEMENT.md). 
