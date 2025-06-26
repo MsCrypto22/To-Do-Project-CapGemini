@@ -36,6 +36,53 @@ To-Do-Project-CapGemini/
    - Remove a task: `python app/todo.py remove <task_id>`
    - List all tasks: `python app/todo.py list`
    - List tasks by category: `python app/todo.py list --category "Category"`
+   - Renumber tasks sequentially: `python app/todo.py renumber`
+   - Configure settings: `python app/todo.py configure --setting <setting> --value <value>`
+
+## Task Management Features
+
+### Basic Operations
+- **Add tasks**: Create new tasks with description and category
+- **Remove tasks**: Delete tasks by their ID
+- **List tasks**: View all tasks or filter by category
+- **Renumber tasks**: Fix task numbering to be sequential (1, 2, 3, etc.)
+
+### Category Filtering
+The `list --category` command allows you to filter tasks by category:
+```bash
+# List all Work tasks
+python app/todo.py list --category Work
+
+# List all Personal tasks  
+python app/todo.py list --category Personal
+
+# List all Exercise tasks
+python app/todo.py list --category Exercise
+```
+
+### Task Numbering
+When tasks are deleted and new ones added, IDs may become non-sequential. Use the renumber command to fix this:
+```bash
+# Before renumbering: IDs might be 1, 4, 5, 6, 8, 10...
+python app/todo.py list
+
+# After renumbering: IDs become 1, 2, 3, 4, 5...
+python app/todo.py renumber
+python app/todo.py list
+```
+
+### Configuration
+Configure application settings like tasks file location and default categories:
+```bash
+# View current configuration
+python app/todo.py configure
+
+# Set default categories
+python app/todo.py configure --setting default_categories --value "Personal,Work,Home,Exercise"
+
+# Set tasks file location
+python app/todo.py configure --setting tasks_file --value "my_tasks.json"
+```
 
 ## Sample Data & Testing
 

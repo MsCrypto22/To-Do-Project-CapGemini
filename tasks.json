@@ -1,17 +1,77 @@
 [
-  {"id": 1, "description": "Buy groceries", "category": "Personal"},
-  {"id": 2, "description": "Finish project report", "category": "Work"},
-  {"id": 3, "description": "Call plumber", "category": "Home"},
-  {"id": 4, "description": "Read a book", "category": "Personal"},
-  {"id": 5, "description": "Go for a 3 mile run", "category": "Exercise"},
-  {"id": 6, "description": "Clean bathroom and wash dishes", "category": "Chores"},
-  {"id": 7, "description": "Eat fruit and veggies today", "category": "Wellbeing"},
-  {"id": 8, "description": "Review quarterly budget", "category": "Work"},
-  {"id": 9, "description": "Schedule dentist appointment", "category": "Health"},
-  {"id": 10, "description": "Water the plants", "category": "Home"},
-  {"id": 11, "description": "Practice guitar for 30 minutes", "category": "Hobby"},
-  {"id": 12, "description": "Pay electricity bill", "category": "Finance"},
-  {"id": 13, "description": "Call mom", "category": "Personal"},
-  {"id": 14, "description": "Update resume", "category": "Work"},
-  {"id": 15, "description": "Meditate for 10 minutes", "category": "Wellbeing"}
-] 
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "category": "Personal"
+  },
+  {
+    "id": 2,
+    "description": "Finish project report",
+    "category": "Work"
+  },
+  {
+    "id": 3,
+    "description": "Read a book",
+    "category": "Personal"
+  },
+  {
+    "id": 4,
+    "description": "Go for a 3 mile run",
+    "category": "Exercise"
+  },
+  {
+    "id": 5,
+    "description": "Clean bathroom and wash dishes",
+    "category": "Chores"
+  },
+  {
+    "id": 6,
+    "description": "Eat fruit and veggies today",
+    "category": "Wellbeing"
+  },
+  {
+    "id": 7,
+    "description": "Review quarterly budget",
+    "category": "Work"
+  },
+  {
+    "id": 8,
+    "description": "Schedule dentist appointment",
+    "category": "Health"
+  },
+  {
+    "id": 9,
+    "description": "Water the plants",
+    "category": "Home"
+  },
+  {
+    "id": 10,
+    "description": "Practice guitar for 30 minutes",
+    "category": "Hobby"
+  },
+  {
+    "id": 11,
+    "description": "Pay electricity bill",
+    "category": "Finance"
+  },
+  {
+    "id": 12,
+    "description": "Call mom",
+    "category": "Personal"
+  },
+  {
+    "id": 13,
+    "description": "Update resume",
+    "category": "Work"
+  },
+  {
+    "id": 14,
+    "description": "Meditate for 10 minutes",
+    "category": "Wellbeing"
+  },
+  {
+    "id": 15,
+    "description": "Call a plumber",
+    "category": "Home"
+  }
+]
